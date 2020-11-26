@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Maintenance AC</string>
+    <string name="button_not_register">Tidak memiliki akun? <font color='red'>Daftar Sekarang</font></string>
+    <string name="header_name">Maintenance Air Conditioner</string>
+    <string name="after_register">Sudah memiliki akun? <font color='red'>Login Sekarang</font></string>
+    <string name="footer_name">apps by Rifky Aldiansyah 2020</string>
+    <string name="splash_name">CV. MAJU LANCAR NUSANTARA</string>
+    <string name="menu_booking">BOOKING SERVICE</string>
+    <string name="header_booking">BOOKING LAYANAN</string>
+    <string name="waktu_booking">WAKTU KUNJUNGAN</string>
+    <string name="keluhan_booking">KELUHAN</string>
+    <string name="button_booking">DONE</string>
+    <string name="paket_booking">Paket</string>
+    <string name="header_profile">CV. MAJU LANCAR NUSANTARA</string>
+    <string name="menu_emergency">EMERGENCY</string>
+    <string name="menu_Paket">PROSEDUR</string>
+    <string name="batal">Batal</string>
+    <string name="keluar">Keluar</string>
+</resources>
